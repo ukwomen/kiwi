@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="e244bfc4-29ab-430f-9074-7cee4142b4a5"
+ARG AUUID="b58895ad-7ea0-4e2d-8691-cae1c3adfd70"
 ARG CADDYIndexPage="https://github.com/behinda/finy/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
